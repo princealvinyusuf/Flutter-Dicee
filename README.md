@@ -11,3 +11,9 @@ What i learn from the project:
 * Understand and use string interpolation. 
 * Learn about basic dart programming concepts such as data types and functions. 
 * Code and use gesture controls.
+
+# Screenshot
+![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/ios.png?raw=true)
+![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/android.png?raw=true)
+
+
