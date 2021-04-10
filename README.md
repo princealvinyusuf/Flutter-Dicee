@@ -13,7 +13,7 @@ What i learn from the project:
 * Code and use gesture controls.
 
 # Screenshot
-![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/ios.png?raw=true)
-![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/android.png?raw=true)
+![alt text](https://github.com/princealvinyusuf/Flutter-Dicee/blob/main/images/ios.png?raw=true)
+![alt text](https://github.com/princealvinyusuf/Flutter-Dicee/blob/main/images/android.png?raw=true)
 
 
